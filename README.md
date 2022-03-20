@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 🎓 PhD candidate 
 <br>
-🌱 I’m currently learning Deep Learning and Computer Vision
+🌱 Game Dev, Deep Learning, and Computer Vision
 <br>
-❤️ Interested in Machine Learning, AI and Games
+❤️ Interested in Games, and AI.
 <br>
 💻 Programmer since 1998
 <br>
