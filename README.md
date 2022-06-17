@@ -1,4 +1,4 @@
-<h1> Hi I am Nariman Abdi <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="16px"> </h1>
+<h1> Hi I am Nariman Abdi <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="2px"> </h1>
 
 <!--
 **piyushP7pravin/piyushP7pravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
