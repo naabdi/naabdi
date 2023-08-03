@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-🎓 PhD candidate 
+🎓 PhD
 <br>
-🌱 Machine Learning, Computer Vision,, Artificial Intelligence, and Game Dev
+🌱 Machine Learning, Computer Vision, Artificial Intelligence, and Game Dev
 <br>
 ❤️ Interested in Games, and AI.
 <br>
